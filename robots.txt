@@ -85,4 +85,6 @@ Allow: *.svg
 Allow: /wp-includes/*.css
 Allow: /wp-includes/*.js
 Host: planetvpnfree.github.io
+Host: d1j760q98esobn.cloudfront.net
 Sitemap: https://planetvpnfree.github.io/sitemap.xml
+Sitemap: https://d1j760q98esobn.cloudfront.net/sitemap_cloudfront.xml
